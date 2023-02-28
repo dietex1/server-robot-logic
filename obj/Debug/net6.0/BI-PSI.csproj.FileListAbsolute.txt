@@ -1,0 +1,30 @@
+/Users/alex/Desktop/BI-PSI/bin/Debug/net6.0/BI-PSI
+/Users/alex/Desktop/BI-PSI/bin/Debug/net6.0/BI-PSI.deps.json
+/Users/alex/Desktop/BI-PSI/bin/Debug/net6.0/BI-PSI.runtimeconfig.json
+/Users/alex/Desktop/BI-PSI/bin/Debug/net6.0/BI-PSI.dll
+/Users/alex/Desktop/BI-PSI/bin/Debug/net6.0/ref/BI-PSI.dll
+/Users/alex/Desktop/BI-PSI/bin/Debug/net6.0/BI-PSI.pdb
+/Users/alex/Desktop/BI-PSI/obj/Debug/net6.0/BI-PSI.csproj.AssemblyReference.cache
+/Users/alex/Desktop/BI-PSI/obj/Debug/net6.0/BI-PSI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alex/Desktop/BI-PSI/obj/Debug/net6.0/BI-PSI.AssemblyInfoInputs.cache
+/Users/alex/Desktop/BI-PSI/obj/Debug/net6.0/BI-PSI.AssemblyInfo.cs
+/Users/alex/Desktop/BI-PSI/obj/Debug/net6.0/BI-PSI.csproj.CoreCompileInputs.cache
+/Users/alex/Desktop/BI-PSI/obj/Debug/net6.0/BI-PSI.dll
+/Users/alex/Desktop/BI-PSI/obj/Debug/net6.0/ref/BI-PSI.dll
+/Users/alex/Desktop/BI-PSI/obj/Debug/net6.0/BI-PSI.pdb
+/Users/alex/Desktop/BI-PSI/obj/Debug/net6.0/BI-PSI.genruntimeconfig.cache
+/Users/dietex/Desktop/PSI Semest/bin/Debug/net6.0/BI-PSI
+/Users/dietex/Desktop/PSI Semest/bin/Debug/net6.0/BI-PSI.deps.json
+/Users/dietex/Desktop/PSI Semest/bin/Debug/net6.0/BI-PSI.runtimeconfig.json
+/Users/dietex/Desktop/PSI Semest/bin/Debug/net6.0/BI-PSI.dll
+/Users/dietex/Desktop/PSI Semest/bin/Debug/net6.0/BI-PSI.pdb
+/Users/dietex/Desktop/PSI Semest/obj/Debug/net6.0/BI-PSI.csproj.AssemblyReference.cache
+/Users/dietex/Desktop/PSI Semest/obj/Debug/net6.0/BI-PSI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dietex/Desktop/PSI Semest/obj/Debug/net6.0/BI-PSI.AssemblyInfoInputs.cache
+/Users/dietex/Desktop/PSI Semest/obj/Debug/net6.0/BI-PSI.AssemblyInfo.cs
+/Users/dietex/Desktop/PSI Semest/obj/Debug/net6.0/BI-PSI.csproj.CoreCompileInputs.cache
+/Users/dietex/Desktop/PSI Semest/obj/Debug/net6.0/BI-PSI.dll
+/Users/dietex/Desktop/PSI Semest/obj/Debug/net6.0/refint/BI-PSI.dll
+/Users/dietex/Desktop/PSI Semest/obj/Debug/net6.0/BI-PSI.pdb
+/Users/dietex/Desktop/PSI Semest/obj/Debug/net6.0/BI-PSI.genruntimeconfig.cache
+/Users/dietex/Desktop/PSI Semest/obj/Debug/net6.0/ref/BI-PSI.dll
